@@ -1,0 +1,12 @@
+1234 checked out the book_ID 1 on 14/11/2022
+3345 reserved the book_ID 1 on 14/11/2022
+4567 reserved the book_ID 1 on 14/11/2022
+8829 reserved the book_ID 1 on 14/11/2022
+1234 returned the book_ID 1 on 14/11/2022
+3454 checked out the book_ID 1 on 14/11/2022
+2500 checked out the book_ID 2 on 14/11/2022
+2500 returned the book_ID 2 on 14/11/2022
+5674 checked out the book_ID 1 on 14/11/2022
+5674 returned the book_ID 1 on 14/11/2022
+7000 checked out the book_ID 40 on 31/01/2023
+7000 returned the book_ID 40 on 31/01/2023

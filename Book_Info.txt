@@ -1,0 +1,51 @@
+ID          |Genre       |Title               |Author                 |Purchase Price £    |Purchase Date
+1           |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2010
+2           |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2010
+3           |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2010
+4           |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2010
+5           |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2010
+6           |Biography   |Steve Jobs          |Walter Isaacson        |35                  |10/9/2010
+7           |Biography   |Wings of Fire       |Abdul Kalam            |40                  |1/10/2010
+8           |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2011
+9           |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2011
+10          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2011
+11          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2011
+12          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2011
+13          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2011
+14          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |1/8/2011
+15          |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2012
+16          |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2012
+17          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2012
+18          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2012
+19          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2012
+20          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2012
+21          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |1/8/2012
+22          |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2013
+23          |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2013
+24          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2013
+25          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2013
+26          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2013
+27          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2013
+28          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |1/8/2013
+29          |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2014
+30          |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2014
+31          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2014
+32          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2014
+33          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2014
+34          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2014
+35          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |2/8/2014
+36          |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2015
+37          |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2015
+38          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2015
+39          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2015
+40          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2015
+41          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2015
+42          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |2/8/2015
+43          |Sci-Fi      |Dune                |Frank Herbert          |10                  |10/2/2016
+44          |Fantasy     |Harry Potter        |JK Rowling             |15                  |1/4/2016
+45          |Sci-Fi      |1984                |George Orwell          |20                  |2/5/2016
+46          |Fantasy     |Annihilation        |Jeff VanderMeer        |25                  |15/6/2016
+47          |Sci-Fi      |The Giver           |Lois Lowry             |30                  |3/7/2016
+48          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |1/8/2016
+49          |Biography   |Wings of Fire       |Abdul Kalam            |40                  |1/8/2016
+50          |Biography   |Steve Jobs          |Walter Isaacson        |35                  |2/8/2016
